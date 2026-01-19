@@ -7,15 +7,14 @@
 - Platforms: Git & GitHub, Vercel, Docker, Linux. 
 
 ### Education
-- Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 – Current_)
-  Major: Bachelor of Science in Computer Science 
-  Current GPA: 2.98
+- Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 – Current_) | Major: Bachelor of Science in Computer Science | Current GPA: 2.98
 
 ### Projects
+- _work in progess_
 
 ### Work Experience
 **Concession Stands | Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 - Present_)**
--Providing refreshments during sporting events, and fostering a community amongst students 
+- Providing refreshments during sporting events, and fostering a community amongst students 
 
 **On-Hole Golfer for Fellowship of Christian Athletes Event | Oklahoma City Country Club | Oklahoma City, Oklahoma | (_October 2025_)**
 - Interacting and communicating with donors and helping raise awareness for the donation cause, all while showcasing golf skills 
