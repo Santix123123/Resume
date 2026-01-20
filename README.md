@@ -1,7 +1,7 @@
 # Aspiring Software Engineer
 
 #### Technical Skills: 
-- Languages: Java, JavaScript, Python, C++, LaTeX. 
+- Languages: Java, JavaScript, Python, C, LaTeX. 
 - Web development: HTML, CSS, React, Node.js, Express. 
 - Databases: SQL (MySQL).
 - Platforms: Git & GitHub, Vercel, Docker, Linux. 
@@ -10,7 +10,12 @@
 B.S., Computer Science | Oklahoma City University at Oklahoma City (_August 2023 – Current_), Current GPA: 2.98
 
 ## Projects
-- _work in progess_
+- _work in progess, currently building an AI_Quiz_Builder._
+
+The AI will think and connect to the internet directing the person/group of people to that specific YouTube video and after revising the video, It will build a real-time quiz with a minimum of 10 and a maximum of 50 questions per topic, for that classroom (each question will give 60 seconds to the user to be able to answer, if the time is out, it will directly skip to the next question and giving 0 point to the user). Hundreds of people will be able to join and answer questions in real-time, and at the end of the quiz, there will be a leaderboard showing the number of points the people have gained based on their answer times, and by it being a competition, it will have to be based on the other eventual users' answer times.
+
+Eventual features:
+- Prizes and achievements
 
 ## Work Experience
 **Concession Stands | Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 - Present_)**
