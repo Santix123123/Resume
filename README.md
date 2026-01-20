@@ -1,9 +1,9 @@
 # Aspiring Software Engineer
 
 #### Technical Skills: 
-- Languages: Java, JavaScript, Python, C++. 
+- Languages: Java, JavaScript, Python, C++, LaTeX. 
 - Web development: HTML, CSS, React, Node.js, Express. 
-- Databases: SQL (MySQL) 
+- Databases: SQL (MySQL).
 - Platforms: Git & GitHub, Vercel, Docker, Linux. 
 
 ## Education
