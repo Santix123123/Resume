@@ -7,7 +7,8 @@
 - Platforms: Git & GitHub, Vercel, Docker, Linux. 
 
 ## Education
-B.S., Computer Science | Oklahoma City University at Oklahoma City (_August 2023 – Current_), Current GPA: 2.98
+B.S., Computer Science | Oklahoma City University in Oklahoma City, Oklahoma (_August 2023 – May 2026_), Current GPA: 3.149
+B.S., Computer Science | Oklahoma Christian University in Edmond, Oklahoma (_August 2026 – May 2027_), Current GPA: NONE
 
 ## Projects
 - _work in progess, currently building an AI_Quiz_Builder._
@@ -18,7 +19,7 @@ Eventual features:
 - Prizes and achievements
 
 ## Work Experience
-**Concession Stands | Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 - Present_)**
+**Concession Stands | Oklahoma City University | Oklahoma City, Oklahoma | (_August 2023 - 2026_)**
 - Providing refreshments during sporting events, and fostering a community amongst students 
 
 **On-Hole Golfer for Fellowship of Christian Athletes Event | Oklahoma City Country Club | Oklahoma City, Oklahoma | (_October 2025_)**
