@@ -7,8 +7,8 @@
 - Platforms: Git & GitHub, Vercel, Docker, Linux. 
 
 ## Education
-- B.S., Computer Science | Oklahoma City University in Oklahoma City, Oklahoma (_August 2023 – May 2026_), Current GPA: 3.149
-- B.S., Computer Science | Oklahoma Christian University in Edmond, Oklahoma (_August 2026 – May 2027_), Current GPA: NONE
+- B.S., Computer Science, Oklahoma City University in Oklahoma City, Oklahoma (_August 2023 – May 2026_), Current GPA: 3.149
+- B.S., Computer Science, Oklahoma Christian University in Edmond, Oklahoma (_August 2026 – May 2027_), Current GPA: NONE
 
 ## Projects
 - _work in progess, currently building an AI_Quiz_Builder._
